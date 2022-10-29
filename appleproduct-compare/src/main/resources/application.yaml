@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    password: appleproduct
+    username: appleproduct
+    url: jdbc:mysql://localhost:3306/appleproduct
+  
+
+
+
+logging:
+  level:
+    root: warn
+    '[com.promineotech]': debug
+    

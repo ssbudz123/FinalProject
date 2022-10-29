@@ -1,0 +1,12 @@
+ spring:
+   datasource:
+    url: jdbc:h2:mem:appleproduct;mode=MYSQL
+    
+ logging:
+  level:
+   root: warn
+   '[com.promineotech]': debug
+  
+
+ 
+    
